@@ -107,3 +107,8 @@ a:hover, a:active{
   color:blue;
   text-decoration:underline;
 }
+
+ul.sessions{
+	margin-left:1em;
+	list-style-type: none;
+}
